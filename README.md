@@ -1,4 +1,4 @@
-# Curso Alura - TDD e java: Testes automatizados com JUnit
+# Curso Alura - TDD e Java: Testes automatizados com JUnit
 
 O JUnit é a principal biblioteca Java utilizada para escrever os chamados testes de unidade, que nos permitem saber rapidamente se o código está funcionando conforme o esperado, ou mesmo se mudanças nesse código tenham impactado de alguma maneira no projeto.
 
